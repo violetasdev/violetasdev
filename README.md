@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)]
+![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetasdev&layout=compact&langs_count=10&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetasdev&layout=compact&langs_count=10&theme=dark)
 
 
 <!--
