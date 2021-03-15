@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetasdev&layout=compact&langs_count=10&theme=dark&hide=xslt,smarty,perl,batchfile,hack)
 
-<h1 align='center'> Hola! Hi! Hallo! 👋 <h1 align='center'> 
+<h1 align='center'> Hola! Hi! Hallo! 👋 </h1> 
 
 <p align='center'> My name is Violeta. I am a PhD candidate in Geoinformatics in Germany. My research focuses on creating tools to solve gaps in Spatial Cognition data analysis with Computer Science :muscle: Currently I work on processing skeleton tracking data for human behaviour analysis in indoors :walking:
 
