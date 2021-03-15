@@ -1,10 +1,12 @@
-![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)
+<!--![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetasdev&layout=compact&langs_count=10&theme=dark&hide=xslt,smarty,perl,batchfile,hack)
 
 ### Hola! Hi! Hallo! 👋
 
+My name is Violeta, and currently, I am a PhD candidate in Geoinformatics in Germany. My research focuses on solving problems related to Spatial Cognition and Computer Science. At the moment I work on processing skeleton tracking data for human behaviour analysis in indoors :walking:
 
+In the past, I participated as a team leader and full-stack software developer focused on integrating web ecosystems. My responsibilities included participating in architecture and web design, platform deployment, back-end development, technology integration, and project management. :computer:
 
 <!--
 **violetasdev/violetasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
