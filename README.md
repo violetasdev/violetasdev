@@ -2,11 +2,13 @@
 
 <h1 align='center'> Hola! Hi! Hallo! 👋 </h1> 
 
-<p align='center'> My name is Violeta. I am a PhD candidate in Geoinformatics in Germany. My research focuses on creating tools to solve gaps in Spatial Cognition data analysis with Computer Science :muscle: Currently, I work on processing skeleton tracking data for indoor human behaviour analysis :walking: </p>
+<p align='center'> My name is Violeta.I am a Ph.D. candidate in Geoinformatics in Germany. My research focuses on creating tools to solve gaps in Spatial Cognition data analysis with Computer Science. Currently, I work on processing skeleton tracking data for indoor human behavior analysis :walking: </p>
 
-<p align='center'> In the past, I participated as a Software Developer and Software Development Team Leader, focused on integrating web ecosystems. My responsibilities included participating in architecture and web design, platform deployment, back-end development, technology integration, and project management. :computer:</p>
+<p align='center'> In the past, I participated as a Software Developer and Software Development Team Leader, focused on integrating web ecosystems. My responsibilities included participating in microservices architecture and web design, platform cloud ecosystem migration and deployment, back-end development, database management, diverse technology integration, and project management. :computer:</p>
 
 <p align='center'>:octocat: Welcome to my <b>Github</b> profile :octocat:</p>
+
+
 
 
 
