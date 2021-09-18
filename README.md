@@ -1,9 +1,7 @@
 <!--![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)-->
 
 <h1 align='center'> Hola! Hi! Hallo! 👋 </h1> 
-<div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=violetasdev" alt="violetasdev"> 
-</div>
+
 <br>
 
 <p align='center'> My name is Violeta.I am a Ph.D. candidate in Geoinformatics in Germany. My research focuses on creating tools to solve gaps in Spatial Cognition data analysis with Computer Science. Currently, I work on processing skeleton tracking data for indoor human behavior analysis :walking: </p>
