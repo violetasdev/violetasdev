@@ -1,12 +1,20 @@
 <!--![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)-->
 
-<h1 align='center'> Hola! Hi! Hallo! 👋 </h1> 
+<h1 align='center'> Hola! Hi! Hallo! 👋</h1> 
+<h2 align='center'> violetasdev</h2> 
+<h4 align=center>[ (social)informatics + (software)development ]</h4>
 
 <br>
 
-<p align='center'> My name is Violeta.I am a Ph.D. candidate in Geoinformatics in Germany. My research focuses on creating tools to solve gaps in Spatial Cognition data analysis with Computer Science. Currently, I work on processing skeleton tracking data for indoor human behavior analysis :walking: </p>
+I am Violeta, a software developer with experience in microservices architecture, web design, databases, and project management, integrating different technologies for private and public sectors.
 
-<p align='center'> In the past, I participated as a Software Developer and Software Development Team Leader, focused on integrating web ecosystems. My responsibilities included participating in microservices architecture and web design, platform cloud ecosystem migration and deployment, back-end development, database management, diverse technology integration, and project management. :computer:</p>
+Curious about the potential application of dev skills in other fields, I decided to pursue a <b>Ph.D. in Geoinformatics</b> in a second (almost third) language in a different country!
+
+<b>I am a developer and researcher</b>, who create tools to <b>analyze human behavior using Spatio-temporal data</b>. But, how does that work? <b>It helps us understand how we interact to improve the services we use, the places we explore, and the artificial agents we create.</b>
+
+I love to learn about data science, computer vision, software development, and human behavior. Also, I am learning to fly drones 🛸 and play golf ⛳️
+
+Let's share thoughts about education and job opportunities in tech!
 
 <p align='center'>:octocat: Welcome to my <b>Github</b> profile :octocat:</p>
 
