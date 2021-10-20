@@ -8,14 +8,37 @@
 
 <br>
 
-I am Violeta, a software developer with experience in microservices architecture, web design, databases, and project management, and in integrating different technologies for private and public sectors. Curious about the potential application of dev skills in other fields, I decided to pursue a <b>Ph.D. in Geoinformatics</b> in a second (almost third) language in a different country!
+```python
+I am Violeta, a software developer with experience in 
+    microservices architecture, 
+    web design, databases, and project management,
+    integrating different technologies 
+    for private and public sectors. 
 
-<b>I am a developer and researcher</b>, who create tools to <b>analyze human behavior using Spatio-temporal data</b>. But, how does that work? <b>It helps us understand how we interact to improve the services we use, the places we explore, and the artificial agents we create.</b>
+Curious about the potential application of dev skills in other fields, 
+    I decided to pursue a Ph.D. in Geoinformatics
+    in a second (almost third) language in a different country!
 
-I love to learn about data science, computer vision, software development, and human behavior. Also, I am learning to fly drones 🛸 and play golf ⛳️
+I am a developer and researcher, who create tools to 
+    analyze human behavior using Spatio-temporal data. 
+ 
+But, how does that work?
+    It helps us understand how we interact to improve 
+    > the services we use, 
+    > the places we explore, 
+    > and the artificial agents we create.
+
+I love to learn about 
+    * data science, 
+    * computer vision, 
+    * software development,
+    * and human behavior. 
+    
+Also, I am learning to fly drones 🛸 and play golf ⛳️
 
 Let's share thoughts about education and job opportunities in tech!
 
+```
 <p align='center'>:octocat: Welcome to my <b>Github</b> profile :octocat:</p>
 
 
