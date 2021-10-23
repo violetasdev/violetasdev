@@ -9,7 +9,7 @@
 <br>
 
 ```python
-I am Violeta, a software developer with experience in 
+I am Violeta, a Colombian software developer with experience in 
     microservices architecture, 
     web design, databases, and project management,
     integrating different technologies 
