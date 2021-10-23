@@ -23,7 +23,7 @@ I am a developer and researcher, who create tools to
     analyze human behavior using Spatio-temporal data. 
  
 But, how does that work?
-    It helps us understand how we interact to improve 
+    This research helps us understand how we interact to improve 
     > the services we use, 
     > the places we explore, 
     > and the artificial agents we create.
@@ -38,8 +38,10 @@ Also, I am learning to fly drones 🛸 and play golf ⛳️
 
 Let's share thoughts about education and job opportunities in tech!
 
+Welcome to my Github profile
+
 ```
-<p align='center'>:octocat: Welcome to my <b>Github</b> profile :octocat:</p>
+
 
 
 <div align="left">
