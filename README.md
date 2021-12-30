@@ -11,18 +11,16 @@
 ```python
 I am Violeta, a:
 
-    Colombian software developer with experience in 
-    microservices architecture, 
-    web design, databases, and project management, 
-    for private and public sectors. 
+    > Colombian software developer with experience in 
+        microservices architecture, 
+        web design, databases, and project management, 
+        for private and public sectors. 
 
-    Ph.D. in Geoinformatics student creating tools to 
-    analyze human behavior using Spatio-temporal data. 
-    
-    This research helps us understand how we interact to improve 
-    > the services we use, 
-    > the places we explore, 
-    > and the artificial agents we create.
+    > Ph.D. in Geoinformatics student 
+        Creating tools to analyze human behavior using Spatio-temporal data to improve 
+            > the services we use, 
+            > the places we explore, 
+            > and the artificial agents we create.
 
 I love to learn about 
     * data science, 
