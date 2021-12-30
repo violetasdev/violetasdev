@@ -9,20 +9,16 @@
 <br>
 
 ```python
-I am Violeta, a Colombian software developer with experience in 
+I am Violeta, a:
+
+    Colombian software developer with experience in 
     microservices architecture, 
-    web design, databases, and project management,
-    integrating different technologies 
+    web design, databases, and project management, 
     for private and public sectors. 
 
-Curious about the potential application of dev skills in other fields, 
-    I decided to pursue a Ph.D. in Geoinformatics
-    in a second (almost third) language in a different country!
-
-I am a developer and researcher, who create tools to 
+    Ph.D. in Geoinformatics student creating tools to 
     analyze human behavior using Spatio-temporal data. 
- 
-But, how does that work?
+    
     This research helps us understand how we interact to improve 
     > the services we use, 
     > the places we explore, 
@@ -36,7 +32,7 @@ I love to learn about
     
 Also, I am learning to fly drones 🛸 and play golf ⛳️
 
-Let's share thoughts about education and job opportunities in tech!
+Let's share thoughts about education and inclusive job opportunities in tech!
 
 Welcome to my Github profile
 
