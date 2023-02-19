@@ -30,7 +30,7 @@ I love to learn about
     
 Also, I am learning to fly drones 🛸 and play golf ⛳️
 
-Let's share thoughts about education and inclusive job opportunities in tech!
+Let's share thoughts about education and job opportunities!
 
 Welcome to my Github profile
 
