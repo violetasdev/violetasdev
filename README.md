@@ -22,16 +22,7 @@ I am Violeta, a:
             > the places we explore, 
             > and the artificial agents we create.
 
-I love to learn about 
-    * data science, 
-    * computer vision, 
-    * software development,
-    * and human behavior. 
     
-Also, I am learning to fly drones 🛸 and play golf ⛳️
-
-Let's share thoughts about education and job opportunities!
-
 Welcome to my Github profile
 
 ```
