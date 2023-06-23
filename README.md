@@ -24,13 +24,6 @@ Welcome to my Github profile
 ```
 
 
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=violetasdev&show_icons=true&theme=great-gatsby"  width="400px" alt="violetasdev">
-</div>
-
-
-
 <!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetasdev&layout=compact&langs_count=10&theme=dark&hide=xslt,smarty,perl,batchfile,hack)
