@@ -1,9 +1,5 @@
 <!--![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)-->
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/violetasdev/violetasdev/main/violetasdev_banner.png" alt="violetasdev">
-</div>
-
 <h1 align='center'> Hola! Hi! Hallo! 👋</h1> 
 
 <br>
