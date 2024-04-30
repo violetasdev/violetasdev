@@ -11,7 +11,7 @@ I am Violeta, a:
     with experience in novel data collection technologies and processing techniques 
         for spatial, geoscience and microservices applications. 
     
-    PhD in Geoinformatics student, creating tools to analyze human behaviour using Skeleton Spatio-temporal data. 
+    I am an applied researcher in Geoinformatics student, creating tools to analyze human behaviour using Skeleton Spatio-temporal data. 
     With this research, we aim to understand how we interact 
     to improve the services we use, the places we explore, and the artificial agents we create.
     
