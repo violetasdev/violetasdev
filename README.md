@@ -1,41 +1,40 @@
 <!--![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)-->
+# Hola! Hi! Hallo! I’m violetasdev
 
-<h1 align='center'> Hola! Hi! Hallo! 👋</h1> 
+🌍 **Based in Germany** | 📊 **Data Scientist & Engineer** | 🌐 **Geospatial AI Enthusiast**
 
-<br>
+I’m a versatile Research Scientist with over 10 years of experience in applied AI research, cloud-based solutions, and technical leadership. My career journey spans:
 
-```python
-I am Violeta, a:
+- 🧑‍💻 Building **scalable data solutions** and developing machine learning models
+- 📡 Specializing in **3D skeleton data analysis** for human-robot interaction and **geospatial technologies**
+- 🤝 Leading technical teams, **managing cross-functional projects**, and **collaborating across cultures**
 
-    > Software developer and spatial data scientist 
-    with experience in novel data collection technologies and processing techniques 
-        for spatial, geoscience and microservices applications. 
-    
-    I am an applied researcher in Geoinformatics student, creating tools to analyze human behaviour using Skeleton Spatio-temporal data. 
-    With this research, we aim to understand how we interact 
-    to improve the services we use, the places we explore, and the artificial agents we create.
-    
-Welcome to my Github profile
+---
 
-```
+## 💡 Growth Mindset
 
+Driven by a commitment to lifelong learning and improvement, I’m always looking to advance my skills and adapt to new challenges. Whether delving into new research areas or refining my technical expertise, I believe in cultivating a **growth mindset** to tackle dynamic and complex problems. My work reflects a dedication to making a meaningful impact through continuous learning and innovation.
 
-<!--
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetasdev&layout=compact&langs_count=10&theme=dark&hide=xslt,smarty,perl,batchfile,hack)
+## 🔧 Core Skills & Technologies
 
+- **AI & Machine Learning**: Model development, feature extraction, reinforcement learning
+- **Data Engineering**: End-to-end data pipeline design, SQL, structured data management
+- **Cloud Platforms**: AWS, Azure
+- **Programming Languages**: Python, R, JavaScript, and more
+- **Project Leadership**: Technical leadership, project management, cross-functional collaboration
+- **Research**: Experimental design, statistical analysis, and visualization
 
+---
 
-**violetasdev/violetasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Current Focus
 
-Here are some ideas to get you started:
+Currently I am analyzing human skeleton data to understand group behaviors in real-world environments. I aim to bring data-driven insights to life by combining AI with spatial data, helping drive innovative solutions for industry and academia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects & Contributions
+
+Here you’ll find projects ranging from 3D human tracking to geospatial data analysis and applied AI. I aim to share tools and insights contributing to the broader tech and research community.
+
