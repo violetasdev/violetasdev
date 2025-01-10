@@ -1,4 +1,4 @@
-Experienced in data analysis, applied AI research, cloud-based solutions, microservices development, and technical leadership. My career journey spans:
+Experienced in data analysis and engineering, applied AI research, cloud-based solutions, microservices development, and technical leadership. My career journey spans:
 
 - Microservices development and integration in production-ready environments
 - Data management, pipelines, ETL of business data, customer service and sensor data.
