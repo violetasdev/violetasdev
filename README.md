@@ -1,7 +1,4 @@
-<!--![Violeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetasdev&count_private=true&theme=dark)-->
-# Hola! Hi! Hallo! I’m violetasdev
-
-📊 **Data analysis, engineering and applied artificial intelligence** 
+# Data analysis, engineering and applied artificial intelligence** 
 
 Experienced in business data analysis, applied AI research, cloud-based solutions, microservices development, and technical leadership. My career journey spans:
 
@@ -13,7 +10,7 @@ Experienced in business data analysis, applied AI research, cloud-based solution
 
 ---
 
-## 🔧 Core Skills & Technologies
+## Core Skills & Technologies
 
 - **AI & Machine Learning**: Model development, feature extraction, model development
 - **Data Engineering**: End-to-end data pipeline design, SQL, data management
@@ -24,7 +21,8 @@ Experienced in business data analysis, applied AI research, cloud-based solution
 
 ---
 
-## 🚀 Projects & Contributions
+## Projects
 
-Here, you’ll find projects ranging from 3D human tracking to data analysis and applied AI.
-
+- Body tracking course for sensor applications tutorials [Explore Project](https://github.com/violetasdev/bodytrackingdepth_course)
+- Skeleton data analysis for body orientation [Explore Project](https://github.com/violetasdev/bodyorientation_example)
+- Spatial Data Science with R (2020) [Explore Project](https://github.com/violetasdev/SDR_geotech)
