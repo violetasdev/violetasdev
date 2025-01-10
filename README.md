@@ -1,3 +1,5 @@
+# Data | Deployment | Research | Engineering
+
 Experienced in data analysis and engineering, applied AI research, cloud-based solutions, microservices development, and technical leadership. My career journey spans:
 
 - Microservices development and integration in production-ready environments
