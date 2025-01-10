@@ -2,13 +2,14 @@
 # Hola! Hi! Hallo! I’m violetasdev
 
 📊 **Data analysis, engineering and applied artificial intelligence** 
-I have experience in business data analysis, applied AI research, cloud-based solutions, microservices development, and technical leadership. My career journey spans:
+
+Experienced in business data analysis, applied AI research, cloud-based solutions, microservices development, and technical leadership. My career journey spans:
 
 - Microservices development and integration in production-ready environments
 - Data management, pipelines, ETL of business data, customer service and sensor data.
 - Building **data-driven solutions** and developing machine learning models for research in robotics and sensors
 - Leading technical teams, managing projects for finance, education, inventory
-- Collaborating in international teams across Latinoamerica, Europe and Japan
+- Collaborating with international teams across Latinoamerica, Europe and Japan
 
 ---
 
