@@ -22,7 +22,7 @@ Experienced in data analysis and engineering, applied AI research, cloud-based s
 ---
 
 ## Projects
-
+- WPF Interface for body tracking and live insights [Explore Project]([https://github.com/violetasdev/SDR_geotech](https://github.com/violetasdev/catkInterface))
 - Body tracking course for sensor applications tutorials [Explore Project](https://github.com/violetasdev/bodytrackingdepth_course)
 - Skeleton data analysis for body orientation [Explore Project](https://github.com/violetasdev/bodyorientation_example)
 - Spatial Data Science with R (2020) [Explore Project](https://github.com/violetasdev/SDR_geotech)
