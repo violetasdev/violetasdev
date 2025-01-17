@@ -4,7 +4,7 @@ Experienced in data analysis and engineering, applied AI research, cloud-based s
 
 - Microservices development and integration in production-ready environments
 - Data management, pipelines, ETL of business data, customer service and sensor data.
-- Building **data-driven solutions** and developing machine learning models for research in robotics and sensors
+- Building data-driven solutions and developing machine learning models for research in robotics and sensors
 - Leading technical teams, managing projects for finance, education, inventory
 - Collaborating with international teams across Latinoamerica, Europe and Japan
 
