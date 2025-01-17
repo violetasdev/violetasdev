@@ -3,9 +3,9 @@
 Experienced in data analysis and engineering, applied AI research, cloud-based solutions, microservices development, and technical leadership. My career journey spans:
 
 - Microservices development and integration in production-ready environments
-- Data management, pipelines, ETL of business data, customer service and sensor data.
+- Data management, pipelines, ETL of business data, customer service and sensor data
 - Building data-driven solutions and developing machine learning models for research in robotics and sensors
-- Leading technical teams, managing projects for finance, education, inventory
+- Leading technical teams, managing projects for finance, education, inventory, customer service
 - Collaborating with international teams across Latinoamerica, Europe and Japan
 
 ---
