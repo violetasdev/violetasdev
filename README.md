@@ -1,4 +1,4 @@
-# Data and applied AI | Software development | Research | Engineering
+# Data and applied AI | SD | Research | Engineering
 
 Experienced in data analysis, applied AI research, cloud-based solutions, microservices software development, and technical leadership. My career journey spans:
 
