@@ -3,21 +3,21 @@
 Experienced in data analysis, applied AI research, cloud-based solutions, microservices software development, and technical leadership. My career journey spans:
 
 - Microservices development and integration in production-ready environments
-- Data warehouse design and management and ETL pipelines for finance, customer service, sensor data, and inventory industries.
+- Data warehouse design and management, and ETL pipelines for finance, customer service, sensor data, and inventory industries.
 - Building data-driven solutions and developing machine learning models for research in robotics and sensors
-- Leading technical teams, managing projects for finance, education, inventory, customer service
+- Leading technical teams, managing projects for finance, education, inventory, and customer service
 - Collaborating with international teams across Latinoamerica, Europe and Japan
 
 ---
 
 ## Core Skills & Technologies
 
-- **AI & Machine Learning**: Model development, feature extraction, model development
+- **AI & Machine Learning**: Model development, feature extraction
 - **Data Engineering**: End-to-end data pipeline design, SQL, data warehouse design and management.
 - **Cloud Platforms**: AWS, familiar with Azure
 - **Programming Languages**: Python, R, JavaScript, and familiarity with PHP, Curlybars, C#, C/C++
 - **Project Leadership**: Technical leadership, project management, cross-functional collaboration
-- **Data analysis**: Experimental design, statistical analysis, visualization
+- **Data analysis**: Experimental design, statistical analysis, visualisation
 
 ---
 
