@@ -1,6 +1,6 @@
 # Data and applied AI | SD | Research | Engineering
 
-Experienced in data analysis, applied AI research, cloud-based solutions, microservices software development, and technical leadership. My career journey spans:
+Experienced in data analysis, applied AI research, cloud-based solutions, service-oriented architecture, and technical leadership. My career journey spans:
 
 - Service-oriented architecture development and integration in production-ready environments
 - Data warehouse design and management, and ETL pipelines for finance, customer service, sensor data, and inventory industries.
